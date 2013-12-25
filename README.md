@@ -3,8 +3,6 @@
 
 HTML5's WebRTC and MediaSource APIs make it possible to perform functions which were earlier not feasible from the browser. This panel has some cool features for which you would never have to open your command prompt again. Open the browser and Voila.
 
-## The WEB Panel Screenshots
-
 ![alt tag](https://raw.github.com/achinkulshrestha/The-Web-Panel/master/The-Web-Panel/images/3.PNG)
 
 ### MediaSource
