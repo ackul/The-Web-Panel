@@ -1,9 +1,6 @@
 function mediastreamplayer( )
 {
-	//var type = "video/mp4" + '; codecs="' + "avc1.4d401f" + '"';
 	var type = "video/mp4" + '; codecs="' + "avc1.4d4028" + '"'
-	
-	//var type = "video/mp2t" + '; codecs="' + "avc1.42c01f" + '"'
 	var mediasourceobj ;
 	var sourcebuffer ;
 	var URL = window.URL || window.wekitURL;
