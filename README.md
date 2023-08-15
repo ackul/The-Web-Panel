@@ -8,9 +8,6 @@ HTML5's WebRTC and MediaSource APIs make it possible to perform functions which 
 ### MediaSource
 ![alt tag](https://raw.github.com/achinkulshrestha/The-Web-Panel/master/The-Web-Panel/images/2.PNG)
 
-### GetUserMedia
-![alt tag](https://raw.github.com/achinkulshrestha/The-Web-Panel/master/The-Web-Panel/images/1.png)
-
 #MediaSource API
 
 ## What is MediaSource?
